@@ -17,12 +17,14 @@ Supply is a simple e-commerce theme for Jekyll + [Gumroad](https://gumroad.com)
 ### alternate, a portfolio theme for Jekyll
 
 ⚫️ [alternate repo](https://github.com/YJPL/alternate) (not public yet)
+
 👉 [live demo (@FilmStoryboards site)](https://film-storyboards.com)
 
 ### Soon, a "coming soon" page template for Jekyll
 
 🔜 [Soon repo](https://github.com/YJPL/soon/)
-👉  [Soon demo](https://yjpl.github.io/soon/)
+
+👉 [Soon demo](https://yjpl.github.io/soon/)
 
 <!--
 **YJPL/YJPL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
