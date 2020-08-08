@@ -10,9 +10,9 @@ Supply is a simple e-commerce theme for Jekyll + [Gumroad](https://gumroad.com)
 
 🛍 [Supply repo](https://github.com/YJPL/Supply) 
 
-👉 [Supply demo site](https://supply.templates.supply)
+🛒 [Supply demo site](https://supply.templates.supply)
 
-👉 [Templates Supply live site](https://templates.supply)
+⚡️ [Templates Supply live site](https://templates.supply)
 
 ### alternate, a portfolio theme for Jekyll
 
