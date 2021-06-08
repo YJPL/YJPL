@@ -1,9 +1,12 @@
 ### Hi there 👋
 
 # What I'm working on
-As an [illustrator/designer](https://alternatyves.com) and [story artist](https://film-storyboards.com), it is useful to be able to build online portfolios. What I use is shared here. I mostly develop [Jekyll themes](https://github.com/YJPL/YJPL/blob/master/README.md#jekyll-themes) and [templates](https://templates.supply).
+As an [illustrator/designer](https://alternatyves.com) and [story artist](https://film-storyboards.com), it is useful to be able to build online portfolios. What I use is shared here. For the web, I mostly develop and maintain [Jekyll themes](https://github.com/YJPL/YJPL/blob/master/README.md#jekyll-themes). 
 
 So far, I have written portfolio and (web) comics themes for Jekyll and WordPress, a `coming soon` template for Jekyll, and a simple e-commerce theme for Jekyll with Gumroad integration.
+
+If you are more interested in layout solutions for screen and print use, and filmmaking templates, please visit [Templates Supply](https://templates.supply).
+
 
 ## Jekyll Themes
 
