@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # What I'm working on
-As an [illustrator/designer](https://alternatyves.com) and [story artist](https://film-storyboards.com), it is useful to be able to build websites. What I use is shared here. For the web, I mostly develop and maintain [Jekyll themes](https://github.com/YJPL/YJPL/blob/master/README.md#jekyll-themes). 
+As an [illustrator/designer](https://alternatyves.com) and [story artist](https://film-storyboards.com), understanding how to structure information and build websites is handy. You will find solutions and themes used for some of my projects here. For the web, I mostly develop and maintain [Jekyll themes](https://github.com/YJPL/YJPL/blob/master/README.md#jekyll-themes). 
 
 So far, I have written portfolio and (web) comics themes for Jekyll and WordPress, a `coming soon` template for Jekyll, and a simple e-commerce Jekyll theme with Gumroad integration.
 
