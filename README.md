@@ -34,6 +34,8 @@ Supply is a simple e-commerce theme for Jekyll for [Gumroad](https://gumroad.com
 ## Text files
 You can do a lot with text.
 
+[⏳ 看板 personal-kanban](https://github.com/YJPL/personal-kanban), a simple text-based personal kanban system written in Markdown.
+
 [📎 Templates for iA Writer](https://github.com/YJPL/iA-Writer-Templates)
 
 <!--
