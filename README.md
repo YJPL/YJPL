@@ -36,7 +36,7 @@ You can do a lot with text.
 
 [⏳ 看板 personal-kanban](https://github.com/YJPL/personal-kanban), a simple text-based personal kanban system written in Markdown.
 
-[📎 Templates for iA Writer](https://github.com/YJPL/iA-Writer-Templates)
+[📎 Templates for iA Writer](https://github.com/YJPL/iA-Writer-Templates), basic templates written in Markdown with a dash of HTML.
 
 <!--
 **YJPL/YJPL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
