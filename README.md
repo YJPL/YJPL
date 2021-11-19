@@ -31,6 +31,11 @@ Supply is a simple e-commerce theme for Jekyll for [Gumroad](https://gumroad.com
 
 👉 [Soon demo](https://yjpl.github.io/soon/)
 
+## Text files
+You can do a lot with text.
+
+[📎 Templates for iA Writer](https://github.com/YJPL/iA-Writer-Templates)
+
 <!--
 **YJPL/YJPL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
