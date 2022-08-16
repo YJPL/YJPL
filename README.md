@@ -32,7 +32,7 @@ Supply is a simple e-commerce theme for Jekyll for [Gumroad](https://gumroad.com
 👉 [Soon demo](https://yjpl.github.io/soon/)
 
 ## Text/Markdown files
-You can do a lot with text.
+You can do **a lot** with text.
 
 [⏳ 看板 personal-kanban](https://github.com/YJPL/personal-kanban), a simple text-based personal kanban system written in Markdown.
 
