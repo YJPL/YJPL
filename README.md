@@ -1,11 +1,13 @@
 ### Hi there 👋
 
 # What I'm working on
-Understanding how to structure information and build websites is helpful in my work as a [designer](https://alternatyves.com) and [story artist](https://film-storyboards.com). You will find solutions and themes used for some of my projects here. For sites, I mainly use, develop and maintain [Jekyll themes](https://github.com/YJPL/YJPL/blob/master/README.md#jekyll-themes), although planning to port some of these to Eleventy.
+Understanding how to structure information and build websites is helpful in my work as a [designer](https://alternatyves.com) and [story artist](https://film-storyboards.com). 
+You can find solutions and themes used for some of my projects here. 
+For web design, I mainly use, develop, and maintain [Jekyll themes](https://github.com/YJPL/YJPL/blob/master/README.md#jekyll-themes). In time some of these might get a rewrite to Eleventy.
 
 So far, I have written portfolio and (web) comics themes for Jekyll and WordPress, a `coming soon` template for Jekyll, and a simple e-commerce Jekyll theme with Gumroad integration.
 
-If you are looking for specific layout templates for screen and print use and filmmaking templates in particular, please visit [Templates Supply](https://templates.supply).
+If you need a specific layout templates for screen and print use and filmmaking templates in particular, please visit [Templates Supply](https://templates.supply).
 
 
 ## Jekyll Themes
