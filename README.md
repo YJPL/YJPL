@@ -42,7 +42,7 @@ You can do **a lot** with text.
 
 [💎 Lean Canvas Template for Obsidian](https://github.com/YJPL/lean-canvas-for-obsidian)
 
-[💸 Business Model Canvas template for Obsidian and Obsidian Kanban](https://github.com/YJPL/business-model-canvas-for-obsidian)
+[💸 Business Model Canvas template for Obsidian](https://github.com/YJPL/business-model-canvas-for-obsidian)
 
 <!--
 **YJPL/YJPL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
