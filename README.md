@@ -44,6 +44,18 @@ You can do **a lot** with text.
 
 [💸 Business Model Canvas template for Obsidian](https://github.com/YJPL/business-model-canvas-for-obsidian)
 
+***
+***
+
+## Portfolio sites
+
+⚫️ [alternatyves](https://alternatyves.com)
+
+🎬 [Film Storyboards](https://film-storyboards.com)
+
+✏️ [Scénarimages](https://film-storyboards.com)
+
+
 <!--
 **YJPL/YJPL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
