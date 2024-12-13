@@ -13,7 +13,7 @@ If you need a specific layout template for screen or print use, especially for f
 ## Jekyll Themes
 
 ### Supply, an e-commerce theme for Jekyll + Gumroad
-Supply is a simple e-commerce theme for Jekyll for [Gumroad](https://gumroad.com) creators.
+Supply is a simple e-commerce theme for Jekyll for Gumroad creators.
 
 🛍 [Supply repo](https://github.com/YJPL/Supply) 
 
