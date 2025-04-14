@@ -25,6 +25,8 @@ Supply is a simple e-commerce Jekyll theme for Gumroad creators.
 
 ⚫️ [alternate repo](https://github.com/YJPL/alternate)
 
+👉 [live demo (@alternatyves site)](https://alternatyves.com)
+
 👉 [live demo (@FilmStoryboards site)](https://film-storyboards.com)
 
 ### Soon, a "coming soon" page template for Jekyll
