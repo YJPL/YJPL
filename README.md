@@ -57,6 +57,10 @@ You can do **a lot** with text.
 
 ✏️ [Scénarimages](https://film-storyboards.com)
 
+***
+***
+
+<img width="1169" alt="Drawing triptych" src="https://github.com/user-attachments/assets/ec962376-2ec6-47d8-8076-47cb1ec5b004" />
 
 <!--
 **YJPL/YJPL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
