@@ -61,7 +61,7 @@ You can do **a lot** with text.
 ***
 
 <figure>
-<a href="https://alternatyves.com"><img src="https://raw.githubusercontent.com/YJPL/iA-Writer-Templates/master/Preview/iAWriter_Scope_of_work_split_preview.png"/></a>
+<a href="https://alternatyves.com"><img src="https://raw.githubusercontent.com/YJPL/alternatyves/refs/heads/master/img/Involuntary_Triptych.jpg?token=GHSAT0AAAAAADBIMTHVACHRESPXDGCICRZC2AA4MOQ"/></a>
 </figure>
 
 <!--
