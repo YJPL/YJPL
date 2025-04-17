@@ -60,9 +60,6 @@ You can do **a lot** with text.
 ***
 ***
 
-<img width="1169" alt="Drawing triptych" src="https://github.com/user-attachments/assets/ec962376-2ec6-47d8-8076-47cb1ec5b004" />
-
-
 <figure>
 <a href="https://alternatyves.com"><img src="https://raw.githubusercontent.com/YJPL/iA-Writer-Templates/master/Preview/iAWriter_Scope_of_work_split_preview.png"/></a>
 </figure>
