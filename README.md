@@ -61,7 +61,7 @@ You can do **a lot** with text.
 ***
 
 <figure>
-<a href="https://alternatyves.com"><img src="https://raw.githubusercontent.com/YJPL/alternatyves/refs/heads/master/img/Involuntary_Triptych.jpg?token=GHSAT0AAAAAADBIMTHVACHRESPXDGCICRZC2AA4MOQ"/></a>
+<a href="https://alternatyves.com"><img src="https://github.com/YJPL/alternatyves/blob/master/img/Involuntary_Triptych.jpg"/></a>
 </figure>
 
 <!--
