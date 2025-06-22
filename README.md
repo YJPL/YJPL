@@ -60,7 +60,7 @@ You can do **a lot** with text.
 ***
 ***
 
-![Carnet Dessin_2024-2025_1213 — Involuntary Triptych](https://github.com/user-attachments/assets/4602d24f-98fe-43f4-a3ee-a519ddfc431c)
+![Carnet Dessin_2024-2025_1213 — Unintentional Triptych](https://github.com/user-attachments/assets/4602d24f-98fe-43f4-a3ee-a519ddfc431c)
 
 <!--
 **YJPL/YJPL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
