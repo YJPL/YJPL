@@ -47,7 +47,6 @@ You can do **a lot** with text.
 [💸 Business Model Canvas template for Obsidian](https://github.com/YJPL/business-model-canvas-for-obsidian)
 
 ***
-***
 
 ## Portfolio sites
 
