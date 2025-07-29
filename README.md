@@ -7,7 +7,7 @@ To design for the web, I mainly use, develop, and maintain [Jekyll themes](https
 
 So far, I have written portfolio and (web) comics themes for Jekyll and WordPress, a `coming soon` template for Jekyll, and a simple e-commerce Jekyll theme with Gumroad integration.
 
-If you need a specific layout template for screen or print use, especially for filmmaking, please visit [Templates Supply](https://templates.supply).
+Please visit [Templates Supply](https://templates.supply) if you need a specific layout template for screen or print use, especially for filmmaking.
 
 
 ## Jekyll Themes
