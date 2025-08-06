@@ -48,13 +48,15 @@ You can do **a lot** with text.
 
 ***
 
-## Portfolio sites
+## 🗂 Portfolio & Social
 
-⚫️ [alternatyves](https://alternatyves.com)
+- ⚫️ [alternatyves](https://alternatyves.com)
+- 🎬 [Film Storyboards](https://film-storyboards.com)
+- ✏️ [Scénarimages](https://film-storyboards.fr)
+- 📰 [Substack (@alternatyves)](https://alternatyves.substack.com)
+- 🐦 [Twitter/X (@alternatyves)](https://twitter.com/alternatyves)
+- 💼 [LinkedIn](https://linkeding.com/in/alternatyves)
 
-🎬 [Film Storyboards](https://film-storyboards.com)
-
-✏️ [Scénarimages](https://film-storyboards.com)
 
 ***
 ***
