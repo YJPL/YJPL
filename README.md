@@ -55,7 +55,7 @@ You can do **a lot** with text.
 - ✏️ [Scénarimages](https://film-storyboards.fr)
 - 📰 [Substack (@alternatyves)](https://alternatyves.substack.com)
 - 🐦 [Twitter/X (@alternatyves)](https://twitter.com/alternatyves)
-- 💼 [LinkedIn](https://linkeding.com/in/alternatyves)
+- 💼 [LinkedIn](https://linkedin.com/in/alternatyves)
 
 
 ***
