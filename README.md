@@ -3,7 +3,7 @@
 # What I'm working on
 Understanding how to structure information and build websites is helpful in my work as an [art director](https://alternatyves.com) and [story artist](https://film-storyboards.com). 
 You can find solutions and themes used for some of my projects here. 
-To design for the web, I mainly use, develop, and maintain [Jekyll themes](https://github.com/YJPL/YJPL/blob/master/README.md#jekyll-themes). Over the years, Jekyll has proven to be one of the most robust solutions for small projects. It is simple, stable, and organized. In time, some of these themes might be converted to Eleventy.
+I build minimal, modular tools for creators, with a fondness for  [Jekyll themes](https://github.com/YJPL/YJPL/blob/master/README.md#jekyll-themes) and Markdown-based workflows.
 
 So far, I have written portfolio and (web) comics themes for Jekyll and WordPress, a `coming soon` template for Jekyll, and a simple e-commerce Jekyll theme with Gumroad integration.
 
