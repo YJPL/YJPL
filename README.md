@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # What I'm working on
-Understanding how to structure information and build websites is helpful in my work as an [art director](https://alternatyves.com) and [story artist](https://film-storyboards.com). 
+Understanding how to structure information and build websites is helpful in my work as a [creative lead](https://alternatyves.com) and [story artist](https://film-storyboards.com). 
 You can find solutions and themes used for some of my projects here. 
 I build minimal, modular tools for creators, with a fondness for  [Jekyll themes](https://github.com/YJPL/YJPL/blob/master/README.md#jekyll-themes) and Markdown-based workflows.
 
