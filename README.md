@@ -5,7 +5,7 @@ Understanding how to structure information and build websites is helpful in my w
 You can find solutions and themes used for some of my projects here. 
 I build minimal, modular tools for creators, with a fondness for  [Jekyll themes](https://github.com/YJPL/YJPL/blob/master/README.md#jekyll-themes) and Markdown-based workflows.
 
-So far, I have written portfolio and (web) comics themes for Jekyll and WordPress, a `coming soon` template for Jekyll, and a simple e-commerce Jekyll theme with Gumroad integration.
+So far, I have written portfolio and (web) comics themes for Jekyll and WordPress, a `coming soon` template for Jekyll, and a simple [e-commerce Jekyll theme](https://github.com/YJPL/Supply) with Gumroad integration.
 
 Please visit [Templates Supply](https://templates.supply) if you need a specific layout template for screen or print use, especially for filmmaking.
 
@@ -60,7 +60,6 @@ You can do **a lot** with text.
 
 ***
 ***
-
 
 
 <!--
