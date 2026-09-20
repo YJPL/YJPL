@@ -57,10 +57,8 @@ You can do **a lot** with text.
 - 🐦 [Twitter/X (@alternatyves)](https://twitter.com/alternatyves)
 - 💼 [LinkedIn](https://linkedin.com/in/alternatyves)
 
-
 ***
 ***
-
 
 <!--
 **YJPL/YJPL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
