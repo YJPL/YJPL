@@ -9,7 +9,6 @@ So far, I have written portfolio and (web) comics themes for Jekyll and WordPres
 
 Please visit [Templates Supply](https://templates.supply) if you need a specific layout template for screen or print use, especially for filmmaking.
 
-
 ## Jekyll Themes
 
 ### Supply, an e-commerce theme for Jekyll + Gumroad
